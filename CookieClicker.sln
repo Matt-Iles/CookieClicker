@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieClicker", "WindowsFormsApplication2\CookieClicker.csproj", "{05C914F1-92B3-4606-8FB9-C112A943EF11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{DCCB8A60-2E31-439F-ACBB-B71BA623C4C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C914F1-92B3-4606-8FB9-C112A943EF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C914F1-92B3-4606-8FB9-C112A943EF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C914F1-92B3-4606-8FB9-C112A943EF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C914F1-92B3-4606-8FB9-C112A943EF11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCB8A60-2E31-439F-ACBB-B71BA623C4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCB8A60-2E31-439F-ACBB-B71BA623C4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCB8A60-2E31-439F-ACBB-B71BA623C4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCB8A60-2E31-439F-ACBB-B71BA623C4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

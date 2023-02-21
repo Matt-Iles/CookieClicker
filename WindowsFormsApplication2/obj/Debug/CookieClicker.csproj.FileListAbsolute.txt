@@ -1,0 +1,9 @@
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\CookieClicker\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\CookieClicker\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\CookieClicker\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\CookieClicker\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\CookieClicker\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\CookieClicker\WindowsFormsApplication2\obj\Debug\CookieClicker.csprojResolveAssemblyReference.cache
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\CookieClicker\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\CookieClicker\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\CookieClicker\WindowsFormsApplication2\obj\Debug\CookieClicker.csproj.GenerateResource.Cache

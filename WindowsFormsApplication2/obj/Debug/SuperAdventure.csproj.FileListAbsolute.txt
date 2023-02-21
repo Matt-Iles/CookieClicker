@@ -1,0 +1,9 @@
+c:\users\ilesm\documents\visual studio 2012\Projects\SuperAdventure\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\ilesm\documents\visual studio 2012\Projects\SuperAdventure\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\ilesm\documents\visual studio 2012\Projects\SuperAdventure\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\ilesm\documents\visual studio 2012\Projects\SuperAdventure\WindowsFormsApplication2\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+c:\users\ilesm\documents\visual studio 2012\Projects\SuperAdventure\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\ilesm\documents\visual studio 2012\Projects\SuperAdventure\WindowsFormsApplication2\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+c:\users\ilesm\documents\visual studio 2012\Projects\SuperAdventure\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\ilesm\documents\visual studio 2012\Projects\SuperAdventure\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\SuperAdventure\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources

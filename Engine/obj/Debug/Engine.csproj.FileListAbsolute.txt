@@ -1,0 +1,7 @@
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\SuperAdventure\Engine\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\SuperAdventure\Engine\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\SuperAdventure\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\ilesm\Documents\Visual Studio 2012\Projects\SuperAdventure\Engine\obj\Debug\Engine.pdb
